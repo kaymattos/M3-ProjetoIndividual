@@ -1,0 +1,134 @@
+{
+    "turma": [
+      {
+        "id": 1,
+        "aluno": "Pedro",
+        "idade": 5,
+        "conceito": "B",
+        "comportamento": "Nem sempre realiza o que é proposto."
+      },
+      {
+        "id": 2,
+        "aluno": "Maria Alice",
+        "idade": 4,
+        "conceito": "MB",
+        "comportamento": "Excelente aluna e não demonstra nenhuma dificuldade."
+      },
+      {
+        "id": 3,
+        "aluno": "Lucas",
+        "idade": 5,
+        "conceito": "R",
+        "comportamento": "Dificilmente realiza as atividades, é agitado e dificulta o ensino dos demais."
+      },
+      {
+        "id": 4,
+        "aluno": "Miguel",
+        "idade": 5,
+        "conceito": "B",
+        "comportamento": "Demonstra algumas dificuldades porém tem interesse e é esforçado."
+      },
+      {
+        "id": 5,
+        "aluno": "Bianca",
+        "idade": 5,
+        "conceito": "I",
+        "comportamento": "Uma adaptação dificil e não aceita nenhuma atividade dentro de sala."
+      },
+      {
+        "id": 6,
+        "aluno": "Nathan",
+        "idade": 4,
+        "conceito": "MB",
+        "comportamento": "Compreende com facilidade e muito gentil com os colegas de turma."
+      },
+      {
+        "id": 7,
+        "aluno": "Carla",
+        "idade": 4,
+        "conceito": "B",
+        "comportamento": "Apesar de conseguir realizar as atividades, não demonstra nenhum interesse em socializar com os demais."
+      },
+      {
+        "id": 8,
+        "aluno": "Samantha",
+        "idade": 5,
+        "conceito": "MB",
+        "comportamento": "Compreende e realiza tudo que é proposto em sala e tem boa relação com os colegas. "
+      },
+      {
+        "id": 9,
+        "aluno": "Victor",
+        "idade": 6,
+        "conceito": "MB",
+        "comportamento": "Adora realizar as tarefas e sempre propõe ser o primeiro a responder questões."
+      }
+    ],
+    "Judo": [
+      {
+        "id": 1,
+        "aluno": "Carla",
+        "faltas": 1,
+        "faixa": "Branca 1 grau",
+        "comportamento": "Empenhada e boa frequência nas aulas."
+      },
+      {
+        "id": 2,
+        "aluno": "Maria Alice",
+        "faltas": 3,
+        "faixa": "Branca",
+        "comportamento": "Se distrai e cansa com facilidade, prefere as brincadeiras."
+      },
+      {
+        "id": 3,
+        "aluno": "Nathan",
+        "faltas": 4,
+        "faixa": "Branca",
+        "comportamento": "Demonstra não gostar muito da atividade e falta bastante."
+      },
+      {
+        "id": 4,
+        "aluno": "Miguel",
+        "faltas": 2,
+        "faixa": "Branca 1 grau",
+        "comportamento": "Evoluindo bem e aprende com facilidade."
+      },
+      {
+        "id": 5,
+        "aluno": "Bianca",
+        "faltas": 0,
+        "faixa": "Branca 2 graus",
+        "comportamento": "Se dedica bastante nessa atividade e ajuda os demais."
+      }
+    ],
+    "Natacao": [
+      {
+        "id": 1,
+        "aluno": "Pedro",
+        "faltas": 2,
+        "touca": "Vermelha, (Iniciação)",
+        "comportamento": "Se dedica e acabou de trocar de touca pela dedicação."
+      },
+      {
+        "id": 2,
+        "aluno": "Lucas",
+        "faltas": 6,
+        "touca": "Laranja, (Adaptação)",
+        "comportamento": "Começou há pouco tempo, falta bastante mas está evoluindo."
+      },
+      {
+        "id": 3,
+        "aluno": "Victor",
+        "faltas": 2,
+        "touca": "Azul Claro, (Aperfeiçoamento 2)",
+        "comportamento": "O mais velho da turma, gosta muito das aulas e tem muita facilidade."
+      },
+      {
+        "id": 4,
+        "aluno": "Samantha",
+        "faltas": 3,
+        "touca": "Verde, (Aperfeiçoamento 1)",
+        "comportamento": "Muito esforçada, evoluindo com rapidez."
+      }
+    ]
+  }
